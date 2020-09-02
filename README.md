@@ -20,7 +20,7 @@ const menuItems = [
 ```
 
 Obiekt nazwij jako MenuItemsContainer
-Wykorzystaj dowolny sposób stylowania komponentów z dokumentacji materialui
+Wykorzystaj dowolny sposób stylowania komponentów z dokumentacji materialui i zmień kolor MenuItem na "blue".
 Zainstaluj wybraną bibliotekę do routingu i podłącz routing do poszczególnych linków zawartych w menu items.
 
 4. Utwórz Page Link1 oraz Page Link2. 
