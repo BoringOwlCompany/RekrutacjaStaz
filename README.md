@@ -29,10 +29,9 @@ Zainstaluj wybraną bibliotekę do routingu i podłącz routing do poszczególny
 - Strona Link2 powinna zawierać komponent switch
 
 5. Wykorzystaj useState i podłącz do komponentu switch. Komponent switch powinien pokazywać i chować menu.
-6. Strona Link2 dodatkowo powinna odpytać
-7. Wykorzystaj API https://reqres.in/api/users?page=2 i pobierz użytkowników. Wyświetł ich listę na stronie głównej bez routingu w dowolny nieostylowany sposób.
-8. Przetestuj dowolny stworzony przez siebie komponent
-9* Wykorzystaj ContextAPI a także useState i utwórz globalny stan, który po wciśnięciu przycisku na stronie głównej ( button o nazwie POKAZ ), będzie pokazywał tekst "TEKST" w menu bocznym. Zimportuj context do menu bocznego wykorzystując useContext, a także podłącz zmianę stanu globalnego do przycisku.
+6. Wykorzystaj API https://reqres.in/api/users?page=2 i pobierz użytkowników. Wyświetł ich listę na stronie głównej bez routingu w dowolny nieostylowany sposób.
+7. Przetestuj dowolny stworzony przez siebie komponent
+8* Wykorzystaj ContextAPI a także useState i utwórz globalny stan, który po wciśnięciu przycisku na stronie głównej ( button o nazwie POKAZ ), będzie pokazywał tekst "TEKST" w menu bocznym. Zimportuj context do menu bocznego wykorzystując useContext, a także podłącz zmianę stanu globalnego do przycisku.
 
 
 Oceniane będzie:
